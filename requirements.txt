@@ -1,0 +1,10 @@
+scapy>=2.4.5
+python-nmap>=0.7.1
+beautifulsoup4>=4.9.3
+requests>=2.25.1
+pyOpenSSL>=20.0.1
+colorama>=0.4.4
+jinja2>=2.11.3
+dnspython>=2.1.0
+concurrent-log-handler>=0.9.20
+python-whois>=0.8.0
